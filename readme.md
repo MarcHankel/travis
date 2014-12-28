@@ -1,1 +1,4 @@
-FlugPixel Build Status:
+travis
+======
+
+Learning Travis CI
